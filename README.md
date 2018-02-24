@@ -1,6 +1,6 @@
 # WordPress
 
-This is a WordPress repository configured to run on the [Pantheon platform](https://www.getpantheon.com).
+This is a WordPress repository NOT configured to run on the [Pantheon platform](https://www.getpantheon.com).
 
 Pantheon is website platform optimized and configured to run high performance sites with an amazing developer workflow. There is built-in support for features such as Varnish, redis, Apache Solr, New Relic, Nginx, PHP-FPM, MySQL, PhantomJS and more. 
 
